@@ -1,0 +1,95 @@
+  .contain{
+    background-color: #1b2430;
+    width: 700px;
+    height: 1960px;
+    left: 450px;
+    border-radius: 7px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    position:absolute;
+  }
+  
+  .container5{
+    
+    margin-right: 100px ;
+    margin-top: 20px;
+    width: 500px;
+    padding: 1%;
+    color:#3ce3b1;
+    font-family: Ruslan Display;
+    position:absolute;
+    
+  }
+  
+ 
+  .row1{
+    padding: 2%;
+    color:white;
+    font-size: larger;
+    text-align: left;
+    font-family: Recursive;
+    color: white;
+  }
+  .surveyinput{
+    background-color:transparent;
+    border:none;
+    border-bottom: 2px solid#3ce3b1;
+    width: 290px;
+    height: 30px;
+    color: #cac5c5;
+    font-family: Recursive;
+    cursor: pointer;
+    outline:none;
+    font-size: 19px;
+  }
+  .btnr{
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+    font-family: Recursive;
+    font-size: 20px;
+    background-color: #3ce3b1;
+  
+  }
+  
+  
+  .check{
+    width:20px;
+    height:30px;
+    justify-content: center;
+    align-items: center;
+    accent-color:#3ce3b1;
+  }
+  
+  .container10{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 10vh;
+   font-size: 60px;
+   color: #3ce3b1;
+  }
+  
+  .Radio{
+    display: none;
+  }
+  
+  .Rating{
+    cursor: pointer;
+    color: #3ce3b1;
+  }
+  
+  .pic{
+    padding-top: 60px;
+    margin-left: 220px;
+    
+  }
+  
+  select{
+    height: 35px;
+    width: 300px;
+    border-radius: 5px;
+    color: #1b2430;
+    background-color: #3ce3b1;
+    justify-content: center;
+    align-items: center;
+  }

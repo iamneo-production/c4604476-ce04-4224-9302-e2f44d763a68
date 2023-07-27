@@ -1,0 +1,68 @@
+/***    Register Page     ***/
+#checkbox {
+    width: 1rem
+  }
+  
+  form span {
+    font-size: .8rem
+  }
+  
+  #reset_pass_lbl {
+    float: left
+  }
+  .regback{
+    background-image:url("https://wallpapers.com/images/hd/professional-background-mj73whq4nmeb5lwd.jpg");
+    position:absolute;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.regform {
+    display: inline-block;
+    background: #dee99cea;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 2rem 0 1rem 0
+  }
+
+
+  .vagathan{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid hsl(0, 100%, 0%);
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif
+  }
+  
+  body {
+    margin: 0 auto
+  }
+  
+  .atom {
+    margin: 3rem auto
+  }
+
+  #sub {
+    text-align: center;
+    display: block;
+    width: 50%;
+    height: 40px;
+    padding: .3rem;
+    border: 2px;
+    background: #222;
+    color: #fff;
+    border-radius: 3px;
+  }
+  #sub:hover {
+    background: #333;
+    transition: all .10s
+  }     

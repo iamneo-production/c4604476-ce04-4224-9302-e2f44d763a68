@@ -1,0 +1,162 @@
+.desktop-2
+{
+position:relative;
+background-color:#ffffff;
+height:534px;
+width:1280px;
+padding:0px;
+}
+.rectangle3
+{
+    position: relative;
+background-color:#1b2430;
+height:384px;
+width:1060px;
+border-radius:10px;
+left:250px;
+top:60px;
+/* position:fixed; */
+}
+.jyothiraam
+{
+color:#050505e2;
+text-align:left;
+vertical-align:text-top;
+font-size:25px;
+font-family:Recursive;
+left:1051px;
+top:519px;
+width:251px;
+height:88px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.indhuprakash
+{
+color:#050505e2;
+text-align:left;
+vertical-align:text-top;
+font-size:26px;
+font-family:Recursive;
+left:630px;
+top:519px;
+width:421px;
+height:88px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.aboutus
+{
+color:#17cf97;
+text-align:center;
+vertical-align:text-top;
+font-size:64px;
+font-family:Ruslan Display;
+left:590px;
+top:105px;
+width:360px;
+height:76px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.content
+{
+color:#ffffff;
+text-align:center;
+vertical-align:text-top;
+font-size:28px;
+font-family:Recursive;
+left:276px;
+top:213px;
+width:1008px;
+height:300px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.creaters
+{
+color:#f15252;
+text-align:center;
+vertical-align:text-top;
+font-size:28px;
+font-family:Ruslan Display;
+left:677px;
+top:463px;
+width:185px;
+height:39px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+.imayesh
+{
+color:#050505e2;
+text-align:left;
+vertical-align:text-top;
+font-size:26px;
+font-family:Recursive;
+left:269px;
+top:519px;
+width:251px;
+height:88px;
+position:absolute;
+line-height:auto;
+border-style:hidden;
+outline:none;
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #1b2430;
+    padding:20px 80px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.06);
+  }
+  
+  #navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  
+  #navbar li{
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+  }
+  
+  #navbar li a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #ffff;
+    transition: 0.3s ease-in-out;
+  }
+  
+  #navbar li a:hover,
+  #navbar li a.active{
+    color: #17cf97;
+  }
+  
+  #navbar li a:hover::after,
+  #navbar li a.active::after{
+    content: "";
+    width: 60%;
+    height: 2px;
+    background: #17cf97;
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+  
+  }

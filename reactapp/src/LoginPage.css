@@ -1,0 +1,101 @@
+/***    Login Page     ***/
+.back{
+        background-image:url("https://static.vecteezy.com/system/resources/previews/007/164/537/original/fingerprint-identity-sensor-data-protection-system-podium-hologram-blue-light-and-concept-free-vector.jpg");
+        position:absolute;
+        background-size: cover;
+        width: 100%;
+        height: 100%;
+}
+h2 {
+    font-weight: 300
+  }
+
+.footy{
+    color: crimson;
+}
+
+.make{
+      width: 400px;
+      padding: 15px;
+      margin-left: 1000px;
+      margin-top: 90px;
+      margin-bottom: 50px;
+      border-radius: 20px;
+      /* background-color: rgba(13, 225, 232, 0.788); */
+     background-image: url("https://w0.peakpx.com/wallpaper/456/555/HD-wallpaper-cool-color-design-designs-flat-material-mobile.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: absolute;
+}
+  .logform {
+    display: inline-block;
+    background: #dde99c;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 2rem;
+    margin: 2rem 0 1rem 0
+  }
+  
+  .formslabel {
+    float: left;
+    font-size: .9rem;
+    margin: 0;
+    padding: 0
+  }
+  
+  .right-label {
+    float: right;
+    cursor: pointer
+  }
+  
+  #sub_btn {
+    text-align: center;
+    display: block;
+    width: 50%;
+    height: 40px;
+    padding: .3rem;
+    border: 2px;
+    background: #222;
+    color: #fff;
+    border-radius: 3px;
+  }
+  
+  #sub_btn:hover {
+    background: #333;
+    transition: all .10s
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: .9rem;
+    /* color: white; */
+  }
+
+  .logi{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid hsl(0, 100%, 0%);
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif
+  }
+  
+  body {
+    margin: 0 auto
+  }
+  
+  .auto{
+    margin: 3rem auto
+  }
+ .makewhite{
+  color:rgb(229, 232, 234);
+  background-color: transparent;
+  text-decoration:none;
+ }

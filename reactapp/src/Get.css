@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid;
+}
+tr{
+    text-align: center;
+    
+}
+tr:nth-child(even) {
+    background-color: #8ceeee;
+  }
+/* tr:hover {background-color: rgb(51, 203, 240);} */
+th {
+    background-color: hsl(157, 75%, 57%);
+    color: rgb(17, 14, 14);
+    /* padding: 2px; */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
